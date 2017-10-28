@@ -7,7 +7,6 @@
 - Single Responsibility
     - Summarizes all four principles below
     - When these four are implemented, the class should only have one responsiblitiy
-    - 
 - Open for extension, Closed for modification
     - Helps tune the design
     - Helps decide which features of a class need to be exposed
@@ -32,4 +31,3 @@
 ## Why Use Solid?
 - Helps to identify problem code
 - Helps design better code
-- 
